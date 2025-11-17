@@ -1,0 +1,6 @@
+C:/ProgramData
+C:/Program Files
+C:/Program Files (x86)
+C:/Windows
+C:/Users/Kostas/AppData
+C:/Users/Kostas/Desktop/Adobe Photoshop 2020
